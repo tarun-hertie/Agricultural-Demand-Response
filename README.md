@@ -1,1 +1,1 @@
-# Agricultural-Demand-Response
+This repository contains the supplementary data for the paper titled, "Optimizing agricultural demand response for reducing costs of renewable energy integration". For more information reach out to khanna@hertie-school.org. The working paper can be found at https://www.econstor.eu/bitstream/10419/233639/1/Khanna-2020-Agricultural-Demand-MESBook-29042021.pdf
